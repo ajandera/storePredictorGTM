@@ -2,4 +2,4 @@ homepage: "https://storepredictor.com"
 documentation: "https://storepredictor.com/gtm"
 versions:
   - sha: 6efeca2c2ae3db6880e70c677dc32e9608b0b7f6
-    changeNotes: "Fix template."
+    changeNotes: Fix template.
