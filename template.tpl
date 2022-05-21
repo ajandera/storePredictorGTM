@@ -14,7 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "storePredictor",
-  "categories": [ANALYTICS, DATA_WAREHOUSING]
+  "categories": ["ANALYTICS", "DATA_WAREHOUSING"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "storePredictor.com",
