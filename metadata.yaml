@@ -1,5 +1,5 @@
 homepage: "https://storepredictor.com"
 documentation: "https://storepredictor.com/gtm"
 versions:
-  - sha: 9852429a92b79794ffb3259e88e59cfe18d7777e
-    changeNotes: Initial release.
+  - sha:6efeca2c2ae3db6880e70c677dc32e9608b0b7f6
+    changeNotes: Fix template.
